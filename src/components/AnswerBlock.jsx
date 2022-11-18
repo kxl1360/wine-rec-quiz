@@ -1,8 +1,9 @@
 const AnswerBlock = () => {
-    return 
+    return (
     <div>
         
     </div>
+    )
 }
 
 export default AnswerBlock

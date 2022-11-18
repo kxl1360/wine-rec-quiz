@@ -1,7 +1,8 @@
 const Title = () => {
-    return
+    return (
     <div>
-
+        TITLEEEEEE
     </div>
+    )
 }
 export default Title
